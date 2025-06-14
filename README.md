@@ -85,9 +85,9 @@ plt.title('Faturamento por Região - Zoop 2023')
 plt.xlabel('Região')
 plt.ylabel('Faturamento')
 plt.show()
+```
 
-
-##📚 Meu Aprendizado com esse Projeto
+## 📚 Meu Aprendizado com esse Projeto
 ✨ Como estudante em formação, esse projeto me ajudou a:
 
 Consolidar conhecimentos de manipulação de dados com Pandas
@@ -98,19 +98,26 @@ Aprender a trabalhar com bases reais
 
 Integrar a IA como ferramenta de apoio no processo de análise de dados
 
-
-🖥️ Como visualizar o projeto
+## 🖥️ Como visualizar o projeto
 👉 Você pode abrir o notebook diretamente no Google Colab clicando abaixo:
+https://colab.research.google.com/drive/1ytq3ape_ncyJY8lH7YBf6ru_bxk3mpAp
 
 
-🤝 Conecte-se comigo!
+## 🤝 Conecte-se comigo!
 Se quiser acompanhar minha jornada como futuro Cientista de Dados:
 
 LinkedIn
 
 GitHub
 
-📌 Observação Importante:
+##📌 Observação Importante:
 Este projeto é um estudo, com fins exclusivamente educacionais, como parte da minha formação em Ciência de Dados.
+
+
+---
+
+
+
+
 
 
