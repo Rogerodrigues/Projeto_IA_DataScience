@@ -107,8 +107,10 @@ https://colab.research.google.com/drive/1ytq3ape_ncyJY8lH7YBf6ru_bxk3mpAp
 Se quiser acompanhar minha jornada como futuro Cientista de Dados:
 
 LinkedIn
+https://www.linkedin.com/in/roger-rodrigues-ba6323180
 
 GitHub
+https://github.com/Rogerodrigues
 
 ##📌 Observação Importante:
 Este projeto é um estudo, com fins exclusivamente educacionais, como parte da minha formação em Ciência de Dados.
