@@ -87,5 +87,30 @@ plt.ylabel('Faturamento')
 plt.show()
 
 
+##📚 Meu Aprendizado com esse Projeto
+✨ Como estudante em formação, esse projeto me ajudou a:
+
+Consolidar conhecimentos de manipulação de dados com Pandas
+
+Praticar criação de gráficos
+
+Aprender a trabalhar com bases reais
+
+Integrar a IA como ferramenta de apoio no processo de análise de dados
+
+
+🖥️ Como visualizar o projeto
+👉 Você pode abrir o notebook diretamente no Google Colab clicando abaixo:
+
+
+🤝 Conecte-se comigo!
+Se quiser acompanhar minha jornada como futuro Cientista de Dados:
+
+LinkedIn
+
+GitHub
+
+📌 Observação Importante:
+Este projeto é um estudo, com fins exclusivamente educacionais, como parte da minha formação em Ciência de Dados.
 
 
